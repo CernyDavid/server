@@ -1,4 +1,5 @@
 radio.setGroup(80)
+let h : any[] = []
 let hlasy = [ {
     "sernumb" : 1254,
     "hlas" : "A",
