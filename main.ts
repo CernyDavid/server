@@ -20,11 +20,7 @@ input.onButtonPressed(Button.AB, function on_button_pressed_ab() {
     
     _py.py_array_clear(hlasy)
 })
-let hlasy = [ {
-    "sernumb" : 0,
-    "hlas" : "0",
-}
-]
+let hlasy : any[] = []
 let vote = {
     "sernumb" : 1254,
     "hlas" : "A",
